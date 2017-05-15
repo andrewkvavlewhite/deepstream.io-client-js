@@ -12,7 +12,7 @@ const ENTRY_MOVED_EVENT = 'entry-moved'
 /**
  * A List is a specialised Record that contains
  * an Array of recordNames and provides a number
- * of convinience methods for interacting with them.
+ * of convenience methods for interacting with them.
  *
  * @param {RecordHanlder} recordHandler
  * @param {String} name    The name of the list
